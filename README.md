@@ -44,7 +44,7 @@ df=pd.read_csv('/student_scores.csv')
 print(df.head())
 print(df.tail())
 ```
-##OUTPUT:
+## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/6935bc03-7335-4fc7-9f6b-c4f0aab54181)
 
@@ -63,7 +63,7 @@ from sklearn.model_selection import train_test_split
 X_train,X_test,Y_train,Y_test=train_test_split(X,Y,test_size=1/3,random_state=0)
 X_train.shape
 ```
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/abd5cf21-91f7-4df0-a757-5d5acc5dc1f4)
 
@@ -76,7 +76,7 @@ Y_pred=reg.predict(X_test)
 print(Y_pred)
 print(Y_test)
 ```
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/76eeca9f-534c-43cf-9964-ba284a0e0bc6)
 
