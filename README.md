@@ -94,7 +94,7 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
 ```
-##Output
+## Output
 
 ![image](https://github.com/user-attachments/assets/763dcc71-0302-4ab8-bff1-316c11d7a3f3)
 ![image](https://github.com/user-attachments/assets/76bebaa9-08e0-4ceb-a306-5e84575684de)
@@ -107,7 +107,7 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/d783abd5-c735-4fb8-807d-e1d93182fb74)
 
